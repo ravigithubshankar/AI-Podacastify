@@ -8,7 +8,7 @@ dg_api_key=st.secrets["dg_api_key"]
 converter=URLToAudioConverter(groq_api_key,dg_api_key)
 
 st.set_page_config(page_title="It's AI Podcastify",layout="centered")
-#st.image("/home/ravi/Desktop/IAD/pod.jpeg",width=500)
+st.image("pod.jpeg",width=500)
 st.title("Enjoy with AI podacastify ")
 st.subheader("Convert any articles and books or papers from URLs into Listenable audio Podacasts.")
 
