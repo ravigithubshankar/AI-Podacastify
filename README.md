@@ -1,2 +1,2 @@
 # AI-Podacastify
-Turn any articles into Podacastify using Llama
+Turn any articles into Podacastify using Llama and DeepGram
