@@ -2,8 +2,8 @@ import streamlit as st
 from speech import URLToAudioConverter
 import os
 
-groq_api_key="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"
-dg_api_key="7c73a01a63325dcc7fc2437a6968d084d4c1f711"
+groq_api_key=st.secrets["groq"]
+dg_api_key=st.secrets["deepgram_api_key"]
 
 converter=URLToAudioConverter(groq_api_key,dg_api_key)
 
