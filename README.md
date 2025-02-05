@@ -5,3 +5,6 @@ AI Podcastify is an innovative platform that revolutionizes content consumption 
 
 # About AI Podcastify:
 AI Podcastify is designed to redefine how people interact with written content. By leveraging advanced AI algorithms, it extracts key insights from articles, crafts natural-sounding conversations, and delivers them in a podcast format. Perfect for multitaskers and auditory learners, it bridges the gap between traditional reading and modern audio storytelling. Whether you're commuting, exercising, or relaxing, AI Podcastify ensures you never miss out on valuable knowledge or entertainment.
+
+#  Architecture
+![Untitled Diagram drawio(3)](https://github.com/user-attachments/assets/7f85223c-8f11-497f-84d9-87cf1718b190)
