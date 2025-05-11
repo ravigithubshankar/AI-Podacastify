@@ -5,7 +5,7 @@ import os
 #groq_api_key=st.secrets["groq_api_key"]
 #dg_api_key=st.secrets["dg_api_key"]
 groq_api_key="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"
-dg_api_key="7e1c6d9559bd09d9ed9a459f22c9a8ace7c72caa"
+dg_api_key="bd46450bd4c9bd2849de010290eadda77311de85"
 converter=URLToAudioConverter(groq_api_key,dg_api_key)
 
 st.set_page_config(page_title="It's AI Podcastify",layout="centered")
