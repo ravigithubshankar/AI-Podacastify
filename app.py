@@ -4,7 +4,7 @@ import os
 
 #groq_api_key=st.secrets["groq_api_key"]
 #dg_api_key=st.secrets["dg_api_key"]
-groq_api_key="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"
+groq_api_key="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"
 dg_api_key="7e1c6d9559bd09d9ed9a459f22c9a8ace7c72caa"
 converter=URLToAudioConverter(groq_api_key,dg_api_key)
 
